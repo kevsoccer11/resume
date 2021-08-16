@@ -1,0 +1,83 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.header-color {
+    background-color: #f4feff!important;
+}
+.skills-color {
+    color: #FFD108!important;
+}
+h3{
+    color: #717274;
+}
+.text-right {
+   text-align: right;
+}
+.text-left {
+    text-align: left;
+}
+.height {
+    min-height: 100vh;
+}
+.hover-color:hover{
+    color: #FFD108!important;
+}
+
+.title-underline {
+    width: 150px;
+    height: 5px;
+    margin: 0 auto;
+    color: #FFD108!important;
+}
+.logo-color{
+    color: #FFD108;
+}
+.height-80 {
+    min-height: 80vh;
+}
+.mar{
+    margin-right: 10px;
+}
+.about-picture {
+    background-image: url(/images/about-img2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#carousel-indicators .active {
+    background-color: rgb(158, 9, 9)!important;
+}
+
+.carousel-indicators .active{
+    background-color: #f00;
+}
+.carousel-control-next-icon {
+    background-color: red;
+}
+.carousel-control-prev-icon {
+    background-color: red;
+}
+.nav-link{
+    font-weight: 700;
+    letter-spacing: 0.20rem;
+  }
+  .nav-item {
+      color: #717274;
+    margin-left: 0.65rem;
+    margin-right: 0.65rem;
+  }
+  .nav-item:hover{
+    color: #FFD108!important;
+  }
+  .nav-item:focus{
+    color: #FFD108!important;
+  }
+
+  .burger {
+    font-size: 2rem!important;
+    color: rgb(0, 0, 0);
+  }
+  .ml-auto .dropdown-menu {
+    right: 0!important;
+}
